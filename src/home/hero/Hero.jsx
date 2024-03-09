@@ -24,6 +24,8 @@ export default function Hero() {
         <SwiperSlide><img src="https://promotions.newegg.com/amd/24-0084/1920x660_sm.jpg" alt="" /></SwiperSlide>
         <SwiperSlide><img src="https://promotions.newegg.com/nepro/24-0040/banner/1920x660_sm.jpg" alt="" /></SwiperSlide>
       </Swiper>
+
+      
     </div>
     </>
   );
